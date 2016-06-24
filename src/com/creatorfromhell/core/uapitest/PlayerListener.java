@@ -8,6 +8,6 @@ public class PlayerListener implements UListener {
 	
 	@EventHandler
 	public void onPlayerJoin(PlayerJoinEvent event) {
-		System.out.println(event.getPlayer().getDisplayName());
+		System.out.println("[UAPITest]" + event.getPlayer().getDisplayName() + "joined");
 	}
 }

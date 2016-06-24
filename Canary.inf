@@ -1,0 +1,4 @@
+main-class = com.creatorfromhell.core.canary.CanaryPluginLoader
+name = UAPITest
+author = creatorfromhell
+version = 0.0.0.1

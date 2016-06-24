@@ -1,0 +1,8 @@
+#Plugin Data
+main: com.creatorfromhell.core.bukkit.BukkitPluginLoader
+
+#General Data
+name: UAPITest
+version: 0.0.0.1
+description: A test plugin for UAPI
+author: creatorfromhell
